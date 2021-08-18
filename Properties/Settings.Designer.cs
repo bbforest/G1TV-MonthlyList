@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace 뉴스실적.Properties {
+namespace G1방송기사월간검색.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

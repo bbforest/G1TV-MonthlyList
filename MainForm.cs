@@ -11,14 +11,14 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace 뉴스실적
+namespace G1방송기사월간검색
 {
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {
         public static string year = DateTime.Now.ToString("yyyy"), _mon;
         public static int yeari = Convert.ToInt32(year);
 
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
 

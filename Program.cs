@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace 뉴스실적
+namespace G1방송기사월간검색
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace 뉴스실적
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new MainForm());
         }
     }
 }
