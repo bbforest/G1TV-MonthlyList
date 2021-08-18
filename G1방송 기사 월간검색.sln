@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G1방송 기사 월간검색", "G1방송 기사 월간검색.csproj", "{155E042E-A72A-4AEF-80F3-20E769210304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{155E042E-A72A-4AEF-80F3-20E769210304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155E042E-A72A-4AEF-80F3-20E769210304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155E042E-A72A-4AEF-80F3-20E769210304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155E042E-A72A-4AEF-80F3-20E769210304}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16182C17-5C9F-43DE-93A5-D179CF5B0255}
+	EndGlobalSection
+EndGlobal
